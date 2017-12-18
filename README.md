@@ -1,4 +1,4 @@
 # Crunnie BOT
 
-WIP
+WIPster
 
