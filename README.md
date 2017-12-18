@@ -1,4 +1,5 @@
 # Crunnie BOT
+## Status: WIP
 
-WIP
+Join my [Discord](https://discord.gg/WqU4mvT) for updates!
 
